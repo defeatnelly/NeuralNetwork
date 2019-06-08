@@ -52,8 +52,7 @@ Another way:
 			Predict the result for test datasets . open file results.txt for detail
 
 
-Docker way: This is not working for me however it might work for other. I am able to create the docuker and install all dependencies but  could not get result back to the local computer . I could have resolved this issue but with the limitation of time I am not able to solve it completely. The idea
-			is to demonstrate the effectiveness of pipeline with docker.
+Docker way: The idea is to demonstrate the effectiveness of pipeline with docker.
 
 	Requirement:
 			Docker: Download and Install docker from https://www.docker.com/ and register in docker hub
